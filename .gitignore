@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+
+# Dynare output
+*.log
+*.aux
++*/
+
+# Data files
+*.mat
+
+# PDF
+*.pdf
